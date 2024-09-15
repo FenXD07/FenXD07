@@ -12,3 +12,9 @@
 <a href="https://www.facebook.com/profile.php?id=100085897812848" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Chí Dũnng" height="30" width="40" /></a>
 </p>
 
+
+<a href="https://github.com/pqceek7">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/fenxd07/fenxd07/blob/main/neofetchstyle.svg">
+  </picture>
+</a>
