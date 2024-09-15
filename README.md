@@ -13,8 +13,3 @@
 </p>
 
 
-<a href="https://github.com/FenXD07">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FenXD07/FenXD07/main/neofetchstyle.svg">
-  </picture>
-</a>
