@@ -13,7 +13,7 @@
 </p>
 
 
-<a href="https://github.com/pqceek7">
+<a href="https://github.com/FenXD07">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/FenXD07/FenXD07/tree/main/neofetchstyle.svg">
   </picture>
