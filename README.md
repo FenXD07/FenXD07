@@ -13,5 +13,5 @@
 </p>
 
 
-![snake gif](https://raw.github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/TekyaygilFethi/TekyaygilFethi/refs/heads/output/github-contribution-grid-snake.svg)
 
